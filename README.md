@@ -44,7 +44,7 @@ Make sure you have the following installed:
 - **Android Emulator** or a physical Android device
 - **Firebase account** — [Firebase Console](https://console.firebase.google.com/)
 
-### Step 1: Clone / Extract the Project
+## Step 1: Clone / Extract the Project
 
 ### Option 1: Clone using Git
 git clone https://github.com/your-username/AttendanceManagementSystem_App.git
