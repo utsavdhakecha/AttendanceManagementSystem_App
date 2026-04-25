@@ -46,13 +46,12 @@ Make sure you have the following installed:
 
 ### Step 1: Clone / Extract the Project
 
-```bash
-# If using git
-git clone <repository-url>
+### Option 1: Clone using Git
+git clone https://github.com/your-username/AttendanceManagementSystem_App.git
 cd AttendanceManagementSystem_App
 
-# Or extract the zip and open the folder
-```
+### Option 2: Download ZIP
+Download the ZIP file from GitHub, extract it, and open the extracted project folder (e.g., `AttendanceManagementSystem_App` or `AttendanceManagementSystem_App-main`) in your IDE.
 
 ### Step 2: Set Up Firebase (Required)
 
