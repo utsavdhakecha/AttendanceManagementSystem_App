@@ -45,14 +45,15 @@ Make sure you have the following installed:
 - **Firebase account** — [Firebase Console](https://console.firebase.google.com/)
 
 ### Step 1: Clone / Extract the Project
+
 ```bash
-### Option 1: Clone using Git
+Option 1: Clone using Git
 git clone https://github.com/your-username/AttendanceManagementSystem_App.git
 cd AttendanceManagementSystem_App
-```
 
-### Option 2: Download ZIP
+Option 2: Download ZIP
 Download the ZIP file from GitHub, extract it, and open the extracted project folder (e.g., `AttendanceManagementSystem_App` or `AttendanceManagementSystem_App-main`) in your IDE.
+```
 
 ### Step 2: Set Up Firebase (Required)
 
