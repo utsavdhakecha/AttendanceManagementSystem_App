@@ -49,7 +49,7 @@ Make sure you have the following installed:
 ```bash
 # If using git
 git clone <repository-url>
-cd attendance_app
+cd AttendanceManagementSystem_App
 
 # Or extract the zip and open the folder
 ```
